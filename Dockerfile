@@ -1,4 +1,4 @@
-FROM node:21-slim
+FROM node:21-alpine
 
 EXPOSE 3000
 
